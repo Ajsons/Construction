@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f9f9f9; }
+header { background: #333; color: white; padding: 1rem 0; text-align: center; }
+header nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 15px; }
+header nav ul li a { color: white; text-decoration: none; }
+section { padding: 2rem; }
+.gallery img { width: 300px; margin: 10px; }
+form { display: flex; flex-direction: column; max-width: 400px; }
+form input, form textarea, form button { margin: 5px 0; padding: 10px; }
+footer { background: #222; color: white; text-align: center; padding: 1rem; }
